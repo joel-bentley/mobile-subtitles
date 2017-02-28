@@ -2,7 +2,7 @@
 View subtitles on mobile device
 
 **Live Demo:** https://mobile-subs.herokuapp.com/
-
+(advance all connected devices to next subtitle using the hidden button above the first word of text)
 ---
 
 To use, first add .env files in root and /client.
