@@ -1,19 +1,7 @@
-# stock-chart
-Built for the 'Chart the Stock Market' challenge on Free Code Camp.
+# mobile-subtitles
+View subtitles on mobile device
 
-**Live Demo:** https://joel-bentley-stock-chart.herokuapp.com/
-
----
-
-User story requirements for this project: (<https://www.freecodecamp.com/challenges/chart-the-stock-market>)
-
-1. I can view a graph displaying the recent trend lines for each added stock.
-
-2. I can add new stocks by their symbol name.
-
-3. I can remove stocks.
-
-4. I can see changes in real-time when any other user adds or removes a stock. For this you will need to use Web Sockets.
+**Live Demo:** https://mobile-subs.herokuapp.com/
 
 ---
 
